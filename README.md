@@ -1,5 +1,5 @@
-# Soccer_Scraping
+# KOF
+![unnamed](https://user-images.githubusercontent.com/126212898/221080534-fa940532-24ba-4a62-9ca1-1d2304f3e237.jpg)
 
-![i](https://user-images.githubusercontent.com/126212898/221069786-09ca10ad-1a62-4471-b546-c65a856eafc1.png)
 
-[Premier League] (https://www.premierleague.com/)
+[KOF TICKER] ([https://mx.investing.com/equities/coca-cola-femsa-adr/])
