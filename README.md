@@ -1,5 +1,8 @@
-# Soccer_Scraping
+# KOF DATA ANALYSIS PROJECT
 
-![i](https://user-images.githubusercontent.com/126212898/221069786-09ca10ad-1a62-4471-b546-c65a856eafc1.png)
+## Inteligencia artificial y analítica de datos con impacto empresarial
 
-[Premier League] (https://www.premierleague.com/)
+![download](https://user-images.githubusercontent.com/126212898/221328248-3f60556d-360b-40e4-8590-7437c1cabf71.png)
+
+
+[Proyecto] (https://experiencia21.tec.mx/courses/348050)
